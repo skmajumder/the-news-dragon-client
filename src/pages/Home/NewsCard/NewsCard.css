@@ -1,0 +1,29 @@
+.author-img {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.author-name {
+  font-weight: 600;
+  font-size: 16px;
+  color: #403f3f;
+}
+
+.publish-date {
+  font-size: 14px;
+  line-height: 21px;
+  color: #706f6f;
+}
+
+.news-title a {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 35px;
+  text-decoration: none;
+  color: #403f3f;
+}
+
+.start-color {
+  fill: #ff8c47;
+}
